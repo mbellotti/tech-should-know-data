@@ -37,8 +37,9 @@ jobs:
             for root, dirs, files in os.walk("articles", topdown=False):
                for name in files:
                   f = open(os.path.join(root, name))
+                  uri = name.split(".") # Don't want the .json part
                   data = json.load(f)
-                  ret["articles"].append({"title":data["title"], "uri": name})
+                  ret["articles"].append({"title":data["title"], "uri": uri[0]})
                   ret["tags"] = count_tags(ret["tags"], data, name)
 
             out = open("index.json", "w")
