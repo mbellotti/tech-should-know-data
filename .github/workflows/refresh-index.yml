@@ -7,8 +7,10 @@ on:
 jobs:
    refresh_index:
     runs-on: ubuntu-latest
+    permissions:
+       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -44,13 +46,6 @@ jobs:
 
             out = open("index.json", "w")
             out.write(json.dumps(ret))
-      - name: Commit changes
-        run: |
-           git config --global user.email "no-reply@github.com"
-           git config --global user.name "GitHub Actions"
-           git add index.json
-           git commit -m "Update index.json"
-           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-           git push
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+           commit_message: Updating index.json
