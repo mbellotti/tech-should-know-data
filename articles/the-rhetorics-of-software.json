@@ -62,9 +62,18 @@
 "references": [],
 "works": [
 {
-"link_title": "Ethical Programs (Open Acces)",
+"link_title": "Ethical Programs (Open Access)",
 "link_url": "https://directory.doabooks.org/handle/20.500.12854/114226"
-}
+},
+{
+    "link_title": "Ethical Programs (Physical Copy)",
+    "link_url": "https://www.amazon.com/Ethical-Programs-Hospitality-Rhetorics-Humanities/dp/0472072730"
+    }
+,
+{
+    "link_title": "James J. Brown's Online Courses",
+    "link_url": "https://courses.jamesjbrownjr.net/"
+    }
 ],
 "tags": [
 "rhetoric",
