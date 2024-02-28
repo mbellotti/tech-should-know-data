@@ -28,7 +28,7 @@ for root, dirs, files in os.walk("articles", topdown=False):
         uri = name.split(".") # Don't want the .json part
         data = json.load(f)
         ret["articles"].append({"title":data["title"], "uri": uri[0], "authors":data["authors"]})
-        tags = count_tags(tags, data, name)
+        tags = count_tags(tags, data, uri[0])
 
 ret["tags"] = unpack_tags(tags)
 out = open("index.json", "w")
