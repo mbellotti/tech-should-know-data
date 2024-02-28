@@ -12,11 +12,11 @@
 "notes": [
 {
 "id": "0",
-"text": "A Nobel prize winner and something of a mentor to Milton Friedman and the rest of the Chicago School, Hayek claimed to have predicted the Great Depression. His most significant work is <em>The Road to Serfdom</em> which criticizes government control of the economy and puts him solidly on the right anti-Communist/Socialist-skeptical side of the political spectrum. Halpern is most interested in Hayek's theories on spontaneous order, in which the market contain complex networks of information and dynamic process that determine its direction rather than hard and fast rules or conscious decision making."
+"text": "A Nobel prize winner and something of a mentor to Milton Friedman and the rest of the Chicago School, Hayek claimed to have predicted the Great Depression. His most significant work is <em>The Road to Serfdom</em> which criticizes government control of the economy and puts him solidly on the right anti-Communist/Socialist-skeptical side of the political spectrum. Halpern is most interested in Hayek's theories on spontaneous order, in which the market contains complex networks of information and dynamic process that determine its direction rather than hard and fast rules or conscious decision making."
 },
 {
 "id": "1",
-"text": "I love Halpern's work because she approaches conversations about technology from the perspective of media studies and history, rather than engineering. I find her writing quite heady, but her argument is essentially that trends in political philosophy shape the assumptions we make about what problems technology can solve and how to structure or iterate on our approaches to building technology. If you can handle the academic prose, her books are worth the deep dive. Especially considering unlike other selections she is at the earlier stage of her career and likely to produce a whole lot more."
+"text": "I love Halpern's work because she approaches conversations about technology from the perspective of media studies and history, rather than engineering. I find her writing quite heady, but her argument is essentially that trends in political philosophy shape the assumptions we make about what problems technology can solve and how to structure or iterate on our approaches to building technology. If you can handle the academic prose, her books are worth the deep dive. Especially considering unlike other selections here she is likely to produce a whole lot more."
 },
 {
 "id": "2",
@@ -24,11 +24,11 @@
 },
 {
 "id": "3",
-"text": "This is kind of the dark side of the culture of blameless postmortem. There is something dehumanizing about seeing all negative outcomes as an opportunity for learning. The argument here is if you completely remove the emotion from the system model, you end up with a callous and exploitative society endlessly trying to distill things down to \"data\" in order to \"learn\" how to be righteous. You can see this in the AI community's current obsession with \"alignment\" (learn human values through additional training) over ergonomics and human factors."
+"text": "This is kind of the dark side of the culture of blameless postmortems. There is something dehumanizing about seeing all negative outcomes as an opportunity for learning. The argument here is if you completely remove the emotion from the system model, you end up with a callous and exploitative society endlessly trying to distill things down to \"data\" in order to \"learn\" how to be righteous. You can see this in the AI community's current obsession with \"alignment\" (learn human values through additional training) over ergonomics and human factors."
 },
 {
 "id": "4",
-"text": "Cybernetics shares the same root word with Kubernetes, referring to steering, a helmsman of pilot. While during Wiener's time Cybernetics was a poorly fleshed out discipline that gathered what we would consider wildly different scientific activities--today it is popping up more and more in computer science as our progressively connected and networked lives make explorations of control systems and feedback loops more and more relevant. "
+"text": "Cybernetics shares the same root word with Kubernetes, referring to steering, a helmsman of pilot. While during Wiener's time Cybernetics was a poorly fleshed out discipline that gathered what we would consider wildly different scientific activities--today it is popping up more and more in computer science as our progressively connected and networked lives make explorations of control systems and feedback loops more and more relevant."
 },
 {
 "id": "5",
@@ -36,7 +36,7 @@
 },
 {
 "id": "6",
-"text": "The point being, two objects can be the same or different depending on which criteria are most relevant at the time. Apples and oranges are both fruit in one sense, but only one has edible skin. Halpern does a deeper analysis of Hayek in <em>The Smartness Mandate</em>: the world is full of infinite variation (even two oranges will have differences in size, color, etc) therefore our sense of sameness <strong>difference</strong> are both learned behaviors developed by aggregation of available data (for contrast) and the relevant context that data applies to."
+"text": "The point being, two objects can be the same or different depending on which criteria are most relevant at the time. Apples and oranges are both fruit in one sense, but only one has edible skin. Halpern does a deeper analysis of Hayek in <em>The Smartness Mandate</em>: the world is full of infinite variation (even two oranges will have differences in size, color, etc) therefore our sense of sameness and <strong>difference</strong> are both learned behaviors developed by aggregation of available data (for contrast) and the relevant context that data applies to."
 },
 {
 "id": "7",
@@ -48,7 +48,7 @@
 },
 {
 "id": "9",
-"text": "Typically when people think about collective decision making, it's the \"wisdom of crowds\" model in which judgment errors are thought to be outliers and rational decision found in the average of many people's singular choice in one decision topic. This is a different model of collective decision making, in which we zoom out and look at the long term outcomes and accomplishments of a population--a decision made up of hundreds or thousands individual decisions executed without knowledge of each other. "
+"text": "Typically when people think about collective decision making, it's the \"wisdom of crowds\" model in which judgment errors are thought to be outliers and rational decision found in the average of many people's singular choice in one decision topic. This is a different model of collective decision making, in which we zoom out and look at the long term outcomes and accomplishments of a population--a decision made up of hundreds or thousands of individual decisions executed without knowledge of each other."
 },
 {
 "id": "10",
@@ -56,11 +56,11 @@
 },
 {
 "id": "11",
-"text": "There's a razor thin distinction here: neural networks were not about building a computer brain but about building an insightful model of the human brain. In a sense the shift in emphasis from model of to artificial version of is the equivalent of suggesting a flight simulator pilot your next commercial flight."
+"text": "There's a razor thin distinction here: neural networks were not about building a computer brain but about building an insightful model of the human brain with computers. In a sense the shift in emphasis from model of to artificial version of is the equivalent of suggesting a flight simulator pilot your next commercial flight."
 },
 {
 "id": "12",
-"text": "I'm not sure this is too surprising. Between Minsky predicting they were 3-8 years away from artificial general intelligence in Life magazine in 1970 to McCulloch predicting the extinction of the human race ... it's the overpromise, underdeliver club."
+"text": "I'm not sure this is too surprising. Between Minsky predicting they were 3~8 years away from artificial general intelligence in Life magazine in 1970 to McCulloch predicting the extinction of the human race ... it's the overpromise, underdeliver club."
 },
 {
 "id": "13",
@@ -76,11 +76,11 @@
 },
 {
 "id": "16",
-"text": ".... other wise known as \"No, Facebook is not listening to you through your mobile phone to show you ads about products you mention\""
+"text": ".... otherwise known as \"No, Facebook is not listening to you through your mobile phone to show you ads about products you mention\""
 },
 {
 "id": "17",
-"text": "Halpern goes into much more detail about Black and the connection she is drawing to network intelligence here in her book The Smartness Mandate. Essentally the gist of it is that financial markets rely on the market's inability to price assets the way traditional economics claims they should be able to. If markets were able to price things correctly, there would be few options to \"buy low and sell high\" because price fluctuations would be rare. Black-Scholes acknowledged this principle and controlled for variation by leveraging variation."
+"text": "Halpern goes into much more detail about Black and the connection she is drawing to network intelligence here in her book The Smartness Mandate. Essentially the gist of it is that financial markets rely on the market's inability to price assets the way traditional economics claims they should be able to. If markets were able to price things correctly, there would be few options to \"buy low and sell high\" because price fluctuations would be rare. Black-Scholes acknowledged this principle and controlled for variation by leveraging variation."
 },
 {
 "id": "18",
@@ -88,11 +88,11 @@
 },
 {
 "id": "19",
-"text": "I feel there's a larger, not yet fully developed, point lingering the in the background here for Halpern. Sensory deprivation techniques that were once torture are now used as self-case in a digital world overwhelming us with stimulus. Shock tactics once used to destabilize systems are now a tool to preserve a very extreme status quo..."
+"text": "I feel there's a larger, not yet fully developed, point lingering the in the background here for Halpern. Sensory deprivation techniques that were once torture are now used as self-care in a digital world overwhelming us with stimulus. Shock tactics once used to destabilize systems are now a tool to preserve a very extreme status quo..."
 },
 {
 "id": "20",
-"text": "Even for Hayek, full libertarianism was a bridge too far. Full equality was often counterproductive to the goal of liberty and one had to decide which one was more important. Hayek had rather complex views on affirmative action, for example, he thought <em>private</em> institutions should be free to discriminate but public ones should not. I think this comes down to the private institution being a market transaction and the presumption that the market would punish decisions made based on inappropriate. Whereas a public institution is immune from market forces."
+"text": "Even for Hayek, full libertarianism was a bridge too far. Full equality was often counterproductive to the goal of liberty and one had to decide which one was more important. Hayek had rather complex views on affirmative action, for example, he thought <em>private</em> institutions should be free to discriminate but public ones should not. I think this comes down to the private institution being a market transaction and the presumption that the market would punish decisions made based on inappropriate criteria. Whereas a public institution is immune from market forces."
 }
 ],
 "references": [],

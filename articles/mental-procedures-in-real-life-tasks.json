@@ -13,7 +13,7 @@
     "notes": [
     {
         "id": "0",
-        "text": "There are many amazing Rasmussen papers--I'm particularly fond of his functional boundaries model and how great it is as a babystep for engineering teams wanting to get started with SLOs but not knowing how to do that--but I went with this one because it's a little less well known and I've been thinking and referencing it a lot when discussing how we onboard new engineers and transition knowledge."
+        "text": "There are many amazing Rasmussen papers--I'm particularly fond of his functional boundaries model and how great it is as a baby step for engineering teams wanting to get started with SLOs but not knowing how to do that--but I went with this one because it's a little less well known and I've been thinking and referencing it a lot when discussing how we onboard new engineers and transition knowledge."
     },
     {
         "id": "1",
@@ -33,7 +33,7 @@
     },
     {
     "id": "5",
-    "text": "...which is what most user researchers will tell you. The Hawthorne effect diminishes over time as people get used to being observed and relax. The more time a researcher spends with a subject, the more accurate the data. "
+    "text": "...which is what most user researchers will tell you. The Hawthorne effect diminishes over time as people get used to being observed and relax. The more time a researcher spends with a subject, the more accurate the data."
     },
     {
     "id": "6",
@@ -53,7 +53,7 @@
     },
     {
     "id": "10",
-    "text": "What he's getting at here is because a closed loop system feeds the output of the process by into the loop as input, the bug might actually be the result of many iterations of the same process ... in which case, navigating the system by tracing a path from component to component looking for an error might be inefficient."
+    "text": "What he's getting at here is because a closed loop system feeds the output of the process back into the loop as input, the bug might actually be the result of many iterations of the same process ... in which case, navigating the system by tracing a path from component to component looking for an error might be inefficient."
     },
     {
     "id": "11",
@@ -69,19 +69,19 @@
     },
     {
     "id": "14",
-    "text": "Again Rasmussen emphasizes that simple models or more efficient than detailed ones. Here he offers a partial explanation as to why: the trade off between better search criteria and the cognitive load of using the more detailed model often do not make sense. You waste the advantages of more detail by having to think harder about everything."
+    "text": "Again Rasmussen emphasizes that simple models are more efficient than detailed ones. Here he offers a partial explanation as to why: the trade off between better search criteria and the cognitive load of using the more detailed model often do not make sense. You waste the advantages of more detail by having to think harder about everything."
     },
     {
     "id": "15",
-    "text": "One presumes that because they didn't have enough operators of a signal specific system, they chose a system equally foreign to everyone. Unfortunately this gives Rasmussen little opportunity to study mental models built through heuristics, which I think is the missing piece here. Associations between different pieces of code based on the history of the system, its ownership and past behaviors/modifications is definitely a component of how the best engineers triage."
+    "text": "One presumes that because they didn't have enough operators of a single specific system, they chose a system equally foreign to everyone. Unfortunately this gives Rasmussen little opportunity to study mental models built through heuristics, which I think is the missing piece here. Associations between different pieces of code based on the history of the system, its ownership and past behaviors/modifications is definitely a component of how the best engineers triage."
     },
     {
     "id": "16",
-    "text": "Essentially the system produces a response and we ask our otherwise what internal values would combine to create a response. Today the tooling around formal methods is good enough to do this in something like TLA+ or Alloy if one is so inclined."
+    "text": "Essentially the system produces a response and we ask ourselves what internal values would combine to create a response. Today the tooling around formal methods is good enough to do this in something like TLA+ or Alloy if one is so inclined."
     },
     {
     "id": "17",
-    "text": "I think the fact that we have such difficulty transitioning knowledge between engineers is not much of the model manipulation being described here is instinctual."
+    "text": "I think the fact that we have such difficulty transitioning knowledge between engineers is that much of the model manipulation being described here is instinctual."
     },
     {
     "id": "18",
@@ -105,11 +105,11 @@
     },
     {
     "id": "23",
-    "text": "I find it interesting that Rasmussen does not consider the difficulty of acquiring such detail in 1974 ... would be curious if these tendencies have changed for software engineers in a modern world where 1) Stackoverflow exists 2) lots of dependencies are in fact open sourced 3) the burden of \"taking something apart\" is less than it would be for a physical component that needs to be put back together."
+    "text": "I find it interesting that Rasmussen does not consider the difficulty of acquiring such detail in 1974 ... would be curious if these tendencies have changed for software engineers in a modern world where 1) Stack Overflow exists 2) lots of dependencies are in fact open sourced 3) the burden of \"taking something apart\" is less than it would be for a physical component that needs to be put back together."
     },
     {
     "id": "24",
-    "text": "Kind of like how some software people advocate \"clean\" code, even when such constructions lead to long execution times for the function and less efficient output from the compiler. The preferred procedures of the system designer are perhaps \"more readable\" and easier to document in what feels like a repeatable fashion, but does that matter if the total runtime of triage is longer as a result? "
+    "text": "Kind of like how some software people advocate \"clean\" code, even when such constructions lead to long execution times for the function and less efficient output from the compiler. The preferred procedures of the system designer are perhaps \"more readable\" and easier to document in what feels like a repeatable fashion, but does that matter if the total runtime of triage is longer as a result?"
     }
     ],
     "references": [],
@@ -117,7 +117,11 @@
     {
     "link_title": "Original Paper",
     "link_url": "https://www.tandfonline.com/doi/abs/10.1080/00140137408931355"
-    }
+    },
+    {
+        "link_title": "Getting to SLOs with Functional Boundaries",
+        "link_url": "https://www.bellotti.tech/functional-boundaries"
+        }
     ],
     "tags": [
     "triage",

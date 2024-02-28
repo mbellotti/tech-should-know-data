@@ -16,15 +16,15 @@
 },
 {
 "id": "1",
-"text": "The five components (canons) of rhetoric are: <ol>\n<li>Invention: coming up with what you want to express.</li>\n<li>Arrangement: deciding how to order the information within the argument</li>\n<li>Style: coming up with the actual words that will be used</li>\n<li>Memory: committing a text to memory (either human or hard drive).</li>\n<li>Delivery: presenting a text to an audience.</li></ol>\nBrown's argument here is that software can influence or shape multiple components of rhetoric at the same time, perhaps without the software creature or user being fully aware of it. Software can create a feedback loop with itself where it is both delivering the message and shaping the arrangement or style of the message. Brown's thinking is that this ambiguity can create ethical conflicts that become noticeable as the software gains traction."
+"text": "The five components (canons) of rhetoric are: <ol>\n<li>Invention: coming up with what you want to express.</li>\n<li>Arrangement: deciding how to order the information within the argument</li>\n<li>Style: coming up with the actual words that will be used</li>\n<li>Memory: committing a text to memory (either human or hard drive).</li>\n<li>Delivery: presenting a text to an audience.</li></ol>\nBrown's argument here is that software can influence or shape multiple components of rhetoric at the same time, perhaps without the software creator or user being fully aware of it. Software can create a feedback loop with itself where it is both delivering the message and shaping the arrangement or style of the message. Brown's thinking is that this ambiguity can create ethical conflicts that become noticeable as the software gains traction."
 },
 {
 "id": "2",
-"text": "This is a reference to a framework introduced earlier in the book, in which Brown discusses the concept of a \"host\" machine in terms of hospitality. Is the user a guest on a platform owned by someone else, or is the digital space allotted to the user within software considered <em>their</em> space with an expectation of privacy? In other words, why do we expect Google not to read our emails? Why does it bother us when Facebook mines our private data? Who is the guest and who is the host in a given arrangement of code? "
+"text": "This is a reference to a framework introduced earlier in the book, in which Brown discusses the concept of a \"host\" machine in terms of hospitality. Is the user a guest on a platform owned by someone else, or is the digital space allotted to the user within software considered <em>their</em> space with an expectation of privacy? In other words, why do we expect Google not to read our emails? Why does it bother us when Facebook mines our private data? Who is the guest and who is the host in a given arrangement of code?"
 },
 {
 "id": "3",
-"text": "The Law is the technical protocol that allows the guest and hosts to even interact with each other in the first place (in other words TCP/IP standard) whereas <em>the laws</em> are the flexible, conditional rules written into software restricting or allowing specific individual interactions. "
+"text": "The Law is the technical protocol that allows the guest and hosts to even interact with each other in the first place (in other words the TCP/IP standard) whereas <em>the laws</em> are the flexible, conditional rules written into software restricting or allowing specific individual interactions."
 },
 {
 "id": "4",
@@ -32,7 +32,7 @@
 },
 {
 "id": "6",
-"text": "Arguing about software, therefore, is the discussion of software itself--best practices, syntax and structural characteristics, etc. What's interesting about the Stack Overflow example is that Stack Overflow restricts what you can do on the site by your reputation points and people often back their answers up with code samples ... so in Brown's framework people argue ABOUT software In software WITH software all on the same platform and perhaps with the same single action."
+"text": "Arguing about software, therefore, is the discussion of software itself--best practices, syntax and structural characteristics, etc. What's interesting about the Stack Overflow example is that Stack Overflow restricts what you can do on the site by your reputation points and people often back their answers up with code samples ... so in Brown's framework people argue ABOUT software IN software WITH software all on the same platform and perhaps with the same single action."
 },
 {
 "id": "7",
@@ -40,7 +40,7 @@
 },
 {
 "id": "8",
-"text": "Brown's point here is once we've connected to the internet, we usually have to satisfy a bunch of additional requirement before we are permitted to communicate via the internet to other human beings (for example we might need to login, or have an account of a certain age or activity level, or be \"friends\" with a given user) These additional rules are invariably expressed and determined with software. Therefore as a user when I go through the process of satisfying those requirements to post or message I am in effect arguing with the software itself, trying to persuade it to give me permission to communicate."
+"text": "Brown's point here is once we've connected to the internet, we usually have to satisfy a bunch of additional requirements before we are permitted to communicate via the internet to other human beings (for example we might need to login, or have an account of a certain age or activity level, or be \"friends\" with a given user) These additional rules are invariably expressed and determined with software. Therefore as a user when I go through the process of satisfying those requirements to post or message I am in effect arguing with the software itself, trying to persuade it to give me permission to communicate."
 },
 {
 "id": "9",
@@ -48,7 +48,7 @@
 },
 {
 "id": "10",
-"text": "Essjay was the prominent Wikipedian who turned out to be a fraud."
+"text": "Essjay was a prominent Wikipedian who turned out to be a fraud."
 },
 {
 "id": "11",
@@ -56,7 +56,7 @@
 },
 {
 "id": "12",
-"text": "While these layers can feel overwhelming, I think the point Brown is trying to make it that the way these layer interact creates behaviors that might be surprising or undesirable. Especially if the reality does not match the intention of the software developer."
+"text": "While these layers can feel overwhelming, I think the point Brown is trying to make is that the way these layer interact creates behaviors that might be surprising or undesirable. Especially if the reality does not match the intention of the software developer."
 }
 ],
 "references": [],

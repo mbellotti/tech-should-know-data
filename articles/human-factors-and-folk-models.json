@@ -17,11 +17,11 @@
     },
     {
     "id": "1",
-    "text": "Although Sidney Dekker has many amazing papers, I think this one is especially important because he is challenging our unconscious assumptions. Dekker's main target here--situational awareness--is a concept most people would not even <em>think</em> question. Of course situational awareness is a real thing! Of course we should build our technology to improve it! In this paper Dekker makes a compelling case to question and ultimately unlearn some assumptions."
+    "text": "Although Sidney Dekker has many amazing papers, I think this one is especially important because he is challenging our unconscious assumptions. Dekker's main target here--situational awareness--is a concept most people would not even <em>think</em> to question. Of course situational awareness is a real thing! Of course we should build our technology to improve it! In this paper Dekker makes a compelling case to question and ultimately unlearn some assumptions."
     },
     {
     "id": "2",
-    "text": "Dekker was an airline pilot before becoming an academic so many of his examples draw from case studies in aviation safety. "
+    "text": "Dekker was an airline pilot before becoming an academic so many of his examples draw from case studies in aviation safety."
     },
     {
     "id": "3",
@@ -29,7 +29,7 @@
     },
     {
     "id": "4",
-    "text": "In the technology space, our principle tools to test falsifiability use first order logic to specify systems (so called Formal Methods and Formal Verification) But a (slightly) less math-y version of the same thing is to engage in counterfactual reasoning. You start with a hypothetical outcome and work your way backwards to causes and behavior. If you've ever done a premortem you've done counterfactuals. "
+    "text": "In the technology space, our principal tools to test falsifiability use first order logic to specify systems (so called Formal Methods and Formal Verification) But a (slightly) less math-y version of the same thing is to engage in counterfactual reasoning. You start with a hypothetical outcome and work your way backwards to causes and behavior. If you've ever done a premortem you've done counterfactuals."
     },
     {
     "id": "5",
@@ -45,7 +45,7 @@
     },
     {
     "id": "8",
-    "text": "In other words, the standards which define the folk model are set AFTER the outcome is known to re-enforce the legitimacy of the folk model itself. But this also makes it completely impossible to use the folk model as a decision making tool in the middle of an incident. "
+    "text": "In other words, the standards which define the folk model are set AFTER the outcome is known to re-enforce the legitimacy of the folk model itself. But this also makes it completely impossible to use the folk model as a decision making tool in the middle of an incident."
     },
     {
     "id": "9",

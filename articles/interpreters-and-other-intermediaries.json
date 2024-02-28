@@ -12,7 +12,7 @@
 "notes": [
 {
 "id": "0",
-"text": "This is an excerpt from Wadensjo' book <em>Interpreting As Interaction</em>. Part ethnography, part sociology, part linguistic study of the relationships between translators, their clients and civil society, thinking about how work in the context of computers and software is fascinating. Especially when so much basic translation is being done by machine (or language model) these days. I selected this passage because Wadensjo gives a really thorough and practical overview of the some foundational work in sociology around interaction patterns and strategy. "
+"text": "This is an excerpt from Wadensjo' book <em>Interpreting As Interaction</em>. Part ethnography, part sociology, part linguistic study of the relationships between translators, their clients and civil society. Thinking about her work in the context of computers and software is fascinating. Especially when so much basic translation is being done by machine (or language model) these days. I selected this passage because Wadensjo gives a really thorough and practical overview of some of the foundational work in sociology around interaction patterns and strategy. "
 },
 {
 "id": "1",
@@ -20,11 +20,11 @@
 },
 {
 "id": "2",
-"text": "This is a reoccurring theme in Interpreting: the degree to which the expectation that the translator should just \"repeat what was said\" in a different language is completely unrealistic. Even accounting for the fact that most languages do not have one to one equivalences which each other, people have false stops, ambiguously worded sentences, long pointless digressions, etc, etc, etc. "
+"text": "This is a reoccurring theme in Interpreting: the degree to which the expectation that the translator should just \"repeat what was said\" in a different language is completely unrealistic. Even accounting for the fact that most languages do not have one to one equivalences with each other, people have false stops, ambiguously worded sentences, long pointless digressions, etc, etc, etc. "
 },
 {
 "id": "3",
-"text": "the monological model is this notion that your meaning is derived entirely and completely from the words you say. Monologic assumed that understanding and meaning flows from the speaker to the listener. By contrast the dialogical model of communication says meaning is part of a collaboration between two parties communicating. You say something, but my interpretation of what you mean may be different than what you intended. Much of our communication is attempting to align our meanings. Wadensjo subscribes to the dialogical model."
+"text": "the monological model is this notion that your meaning is derived entirely and completely from the words you say. Monologic assumes that understanding and meaning flows from the speaker to the listener. By contrast the dialogical model of communication says meaning is part of a collaboration between parties communicating. You say something, but my interpretation of what you mean may be different than what you intended. Much of our communication is attempting to align our meanings. Wadensjo subscribes to the dialogical model."
 },
 {
 "id": "4",
@@ -36,7 +36,7 @@
 },
 {
 "id": "6",
-"text": "There's also the question of mutuality and consent. When we build technology to be a third party, to what extent have we given the other parties the ability to establish mutuality and agree to collaborate with the technology on communicating? A lot of the frustration we experience around automated/robot systems (from phone menus to kiosks) come from being unable to establish mutuality with the machine, we're forced into a routine where collaboration is needed (for example I have a problem but I don't know the proper department or key words are to navigate the automated system) but collaboration is impossible."
+"text": "There's also the question of mutuality and consent. When we build technology to be a third party, to what extent have we given the other parties the ability to establish mutuality and agree to collaborate with the technology on communicating? A lot of the frustration we experience around automated/robot systems (from phone menus to kiosks) come from being unable to establish mutuality with the machine, we're forced into a routine where collaboration is needed (for example I have a problem but I don't know the proper department or key words to navigate the automated system) but collaboration is impossible."
 },
 {
 "id": "7",
@@ -44,7 +44,7 @@
 },
 {
 "id": "8",
-"text": "Here we acknowledge that third parties are rarely completely neutral and call out that some people actively pursue this role (broker) in order to use the leverage and influence it will bring them to build their own social capital.</br></br>\nIn technology we can see similar issues as startups look to digitalize our analog interactions and then resell our metadata or otherwise leverage the influence their third party status affords them."
+"text": "Here we acknowledge that third parties are rarely completely neutral and call out that some people actively pursue this role (broker) in order to use the leverage and influence it will bring them to build their own social capital.<br/><br/>In technology we can see similar issues as startups look to digitalize our analog interactions and then resell our metadata or otherwise leverage the influence their third party status affords them."
 },
 {
 "id": "9",
@@ -68,11 +68,11 @@
 },
 {
 "id": "14",
-"text": "One sees a similar dynamic in journalism where trying to be \"unbiased\" leads to unfairly boosting the messaging of fringe groups. "
+"text": "One sees a similar dynamic in journalism where trying to be \"unbiased\" leads to unfairly boosting the messaging of fringe groups."
 },
 {
 "id": "15",
-"text": "In other words, the presence of a third party at all can alter the perceived formality of the interaction and change what people try to say. Wadensjo is writing about translators here. Using a neighbor of family friend as an interpreter to talk to the police (for example) suggests a different conversation than using a professional interpreter.</br></br>\nBut the same can also be said for technology. The choice to communicate via text message or email can change what people believe is appropriate or inappropriate to say."
+"text": "In other words, the presence of a third party at all can alter the perceived formality of the interaction and change what people try to say. Wadensjo is writing about translators here. Using a neighbor or family friend as an interpreter to talk to the police (for example) suggests a different conversation than using a professional interpreter.<br/><br/>But the same can also be said for technology. The choice to communicate via text message or email can change what people believe is appropriate or inappropriate to say."
 },
 {
 "id": "16",
@@ -84,11 +84,11 @@
 },
 {
 "id": "18",
-"text": "The extent to which machines are 'non-persons' varies more than you might assume. The take away here is to ask yourself how much of the shared meaning the machine is contributing to the conversation (if the machine does not participate does the meaning of what people communicate to each other change?) and the degree to which the two parties in conversation are aware that the machine is collaborating with them.</br></br>\nIn a later chapter Wadensjo discusses who takes responsibility for maintaining a common understanding between parties. She uses this to explain how interpreters will sometimes deviate from a strict listen->translate interaction and participate more actively in the conversation in order to ensure mutual understanding is maintained. Some of our frustrations with technology, I think, come from technology's inability to take responsibility for shared understanding. Software can be quite rude: meddling in what we say be not taking any responsibility when its contributions cause us to misunderstand each other.</br></br>\nThinking about how your software does this and how to communicate those expectations to users can go a long way to improving the way people experience technology and the positive impacts it has."
+"text": "The extent to which machines are 'non-persons' varies more than you might assume. The take away here is to ask yourself how much of the shared meaning the machine is contributing to the conversation (if the machine does not participate does the meaning of what people communicate to each other change?) and the degree to which the other parties in conversation are aware that the machine is collaborating with them.<br/><br/>In a later chapter Wadensjo discusses who takes responsibility for maintaining a common understanding between parties. She uses this to explain how interpreters will sometimes deviate from a strict listen->translate interaction and participate more actively in the conversation in order to ensure mutual understanding is maintained. Some of our frustrations with technology, I think, come from technology's inability to take responsibility for shared understanding. Software can be quite rude: meddling in what we say but not taking any responsibility when its contributions cause us to misunderstand each other.<br/><br/>Thinking about how your software does this and how to communicate those expectations to users can go a long way to improving the way people experience technology and the positive impacts it has."
 },
 {
 "id": "19",
-"text": "Karin Aronsson, we're starting to dip into what's called \"facework\" here. Wadensjo deep dives more properly into this concept in later chapters, but essentially \"facework\" is communication that happens to acknowledge and reassert social roles within an ongoing interaction. It's name comes from the expression \"saving face\".</br></br>\nFor example, you may add smiley faces and emojis to messages in order to ensure the content around those symbols is interpreted correctly (friendly, teasing, playful). You might apologize automatically for \"rudeness\" even when the person you are talking to does not seem offended because doing so reaffirms your good intentions. It would be a mistake to see communication between two parties as just the exchange of factual information. We make all kinds of little gestures deliberately and proactively in our communication that do not add any factual information but help the receiver interpret our meaning correctly. The extent to which any technology enables or restricts facework determines how effectively people can communicate on it."
+"text": "Karin Aronsson, we're starting to dip into what's called \"facework\" here. Wadensjo deep dives more properly into this concept in later chapters, but essentially \"facework\" is communication that happens to acknowledge and reassert social roles within an ongoing interaction. It's name comes from the expression \"saving face\".<br/><br/>For example, you may add smiley faces and emojis to messages in order to ensure the content around those symbols is interpreted correctly (friendly, teasing, playful). You might apologize automatically for \"rudeness\" even when the person you are talking to does not seem offended because doing so reaffirms your good intentions. It would be a mistake to see communication between two parties as just the exchange of factual information. We make all kinds of little gestures deliberately and proactively in our communication that do not add any factual information but help the receiver interpret our meaning correctly. The extent to which any technology enables or restricts facework determines how effectively people can communicate on it."
 },
 {
 "id": "20",
@@ -96,7 +96,7 @@
 },
 {
 "id": "22",
-"text": "We often gravitate towards \"automating\" these gatekeeping functions because they seem so easy to express in programmable rules. Wadensjo is pointing out that while the institution thinks this way, in actuality the gatekeeper can exercise a lot of discretion in working with the user to redefine the query (and therefore the route of the request) and that this contribution can change outcomes and experiences pretty dramatically.</br></br>\nWhile technology \"never gets tired\" it also lacks willingness to engage and exercise such discretion. Instead we push that back onto the user and ask them to navigate the gatekeeper via trial and error until they get what they think is the correct outcome (something that they might not be able to actually determine given their limited knowledge and visibility into the institution)."
+"text": "We often gravitate towards \"automating\" these gatekeeping functions because they seem so easy to express in programmable rules. Wadensjo is pointing out that while the institution thinks this way, in actuality the gatekeeper can exercise a lot of discretion in working with the user to redefine the query (and therefore the route of the request) and that this contribution can change outcomes and experiences pretty dramatically.<br/><br/>While technology \"never gets tired\" it also lacks willingness to engage and exercise such discretion. Instead we push that back onto the user and ask them to navigate the gatekeeper via trial and error until they get what they think is the correct outcome (something that they might not be able to actually determine given their limited knowledge and visibility into the institution)."
 },
 {
 "id": "23",
@@ -108,7 +108,7 @@
 },
 {
 "id": "25",
-"text": "This is a good model to start with when designing a piece of technology. What is the service is it supposed to provide? What behaviors and access does it restrict (control)? To what extent do those two things conflict and what takes priority when they do?"
+"text": "This is a good model to start with when designing a piece of technology. What is the service it is supposed to provide? What behaviors and access does it restrict (control)? To what extent do those two things conflict and what takes priority when they do?"
 }
 ],
 "references": [],

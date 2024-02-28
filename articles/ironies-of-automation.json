@@ -17,7 +17,7 @@
     },
     {
     "id": "1",
-    "text": " Madeleine Clare Elish expressed a similar concept, referring to this as \"moral crumple zone.\" Other researchers have seen noted that by automating the easy tasks we are also eliminating rest periods, increasing the cognitive load on the human operator and subsequently the amount of total error."
+    "text": "Madeleine Clare Elish expressed a similar concept, referring to this as a \"moral crumple zone.\" Other researchers have noted that by automating the easy tasks we are also eliminating rest periods, increasing the cognitive load on the human operator and subsequently the amount of total error."
     },
     {
     "id": "2",
@@ -25,7 +25,7 @@
     },
     {
     "id": "3",
-    "text": "Ajay Agrawal, Avi Goldfarb, and Joshua Gans's \"Prediction Machines\" is a really interesting deep dive on current thinking in cognitive science about this process."
+    "text": "Andy Clark's \"The Experience Machine\" is a really interesting deep dive on current thinking in cognitive science about this process."
     },
     {
     "id": "4",
@@ -41,7 +41,7 @@
     },
     {
     "id": "7",
-    "text": "Paul Fitt developed a list of task he thought machines were better than people at and tasks people were better than machines at. It was first published in <em>Human Engineering for an Effective Air Navigation and Traffic Control System</em>"
+    "text": "Paul Fitt developed a list of tasks he thought machines were better than people at and tasks people were better than machines at. It was first published in <em>Human Engineering for an Effective Air Navigation and Traffic Control System</em>"
     },
     {
     "id": "8",
@@ -172,7 +172,11 @@
     "works": [
     {
     "link_title": "The Original Fitt's List",
-    "link_url": "https://www.researchgate.net/figure/The-original-Fitts-List-Reprinted-with-permission-from-Human-Engineering-for-an_fig2_3454029#:~:text=Fitts'%20list%2C%20referenced%20by%20Hoffman,surpasses%20technology%20(e.g.%20..."
-    }
+    "link_url": "https://www.researchgate.net/figure/The-original-Fitts-List-Reprinted-with-permission-from-Human-Engineering-for-an_fig2_3454029"
+    },
+    {
+        "link_title": "The Experience Machine",
+        "link_url": "https://www.penguinrandomhouse.com/books/608016/the-experience-machine-by-andy-clark/"
+        }
     ]
     }
