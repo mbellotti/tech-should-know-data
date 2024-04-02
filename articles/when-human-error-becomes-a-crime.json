@@ -16,11 +16,11 @@
     },
     {
     "id": "3",
-    "text": "Although the emphasis in this paper are life and death situations, the same pattern of behavior has been observed over and over again in lower stakes scenarios (like developing commercial software). A keep element of \"safety culture\" is understanding that the operator often is already incentivized to prevent things from going wrong and that adding additional incentives actually push behavior in the opposite direction. No one wants to suck at their job. In aviation this should seem especially obvious: dangerous behavior puts the life of the pilot at risk just as much as the passengers. Do pilots really need the additional \"incentive\" of avoiding criminal charges?"
+    "text": "Although the emphasis in this paper are life and death situations, the same pattern of behavior has been observed over and over again in lower stakes scenarios (like developing commercial software). A key element of \"safety culture\" is understanding that the operator often is already incentivized to prevent things from going wrong and that adding additional incentives actually push behavior in the opposite direction. No one wants to suck at their job. In aviation this should seem especially obvious: dangerous behavior puts the life of the pilot at risk just as much as the passengers. Do pilots really need the additional \"incentive\" of avoiding criminal charges?"
     },
     {
     "id": "4",
-    "text": "Viewing incidents as having a single root cause (rather than systemic issues) also tends to derail the (re)development of technology as well. If failure is a product of individual mistakes, the best way to prevent failure is by doing as much planning as possible (to document correct decisions and prevent mistakes). Yet in practice this leads to waterfall (or \"agile-fall\") processes that can't adapt and kneecap progress. Instead we've learned that projects go much better when we plan a little but prepare A LOT. Small increments of work, good moderating, gradual iteration. In other words: we focus our attention on the system to run the technology not the plans."
+    "text": "Viewing incidents as having a single root cause (rather than systemic issues) also tends to derail the (re)development of technology as well. If failure is a product of individual mistakes, the best way to prevent failure is by doing as much planning as possible (to document correct decisions and prevent mistakes). Yet in practice this leads to waterfall (or \"agile-fall\") processes that can't adapt and kneecap progress. Instead we've learned that projects go much better when we plan a little but prepare A LOT. Small increments of work, good monitoring, gradual iteration. In other words: we focus our attention on the system to run the technology not the plans."
     },
     {
     "id": "5",
@@ -28,11 +28,11 @@
     },
     {
     "id": "6",
-    "text": "Just in general there is no technology that does not fail eventually. If nothing else parts sometimes break!"
+    "text": "Just in general there is no technology that does not fail eventually. If nothing else, parts sometimes break."
     },
     {
     "id": "7",
-    "text": "This in my mind is one of the most important points of this article. The degree to which people use \"human error\" to give them closure and to satisfying the psychological/emotional/sociological needs of a community traumatized by an incident."
+    "text": "This in my mind is one of the most important points of this article. The degree to which people use \"human error\" to give them closure and to satisfy the psychological/emotional/sociological needs of a community traumatized by an incident."
     },
     {
     "id": "8",
@@ -72,7 +72,7 @@
     },
     {
     "id": "17",
-    "text": "And again: isn't the pilot already properly incentivized to ensure his own safety? Who is going to care more about correct outcomes an executive writing the safety policy or someone actually on the plane about to crash?"
+    "text": "And again: isn't the pilot already properly incentivized to ensure his own safety? Who is going to care more about correct outcomes: an executive writing the safety policy or someone actually on the plane about to crash?"
     },
     {
     "id": "18",
@@ -80,11 +80,11 @@
     },
     {
     "id": "19",
-    "text": "Both in time allotted for such reflection but also in agency granted to operator in the first place. The benefits of deviating from standard process may be clear in retrospect, but they're not necessarily in the moment. This pressure is even worse when the operator knows they will be punished for deviance."
+    "text": "Both in time allotted for such reflection but also in agency granted to operators in the first place. The benefits of deviating from standard process may be clear in retrospect, but they're not necessarily in the moment. This pressure is even worse when the operator knows they will be punished for deviance."
     },
     {
     "id": "20",
-    "text": "Everyone will pay lip service to safety as the number one priority, but in scenarios where potential outcomes are unclear it's easy to downplay where the safety incident was severe enough to override all other concerns. Sitting on my to-read pile is a paper titled \"Nobody Ever Gets Credit for Fixing Problems That Never Happen\" which I think sums this up nicely."
+    "text": "Everyone will pay lip service to safety as the number one priority, but in scenarios where potential outcomes are unclear it's easy to downplay whether the safety incident was severe enough to override all other concerns. Sitting on my to-read pile is a paper titled \"Nobody Ever Gets Credit for Fixing Problems That Never Happen\" which I think sums this up nicely."
     }
     ],
     "references": [],
@@ -92,7 +92,15 @@
     {
     "link_title": "Original Paper",
     "link_url": "https://sidneydekker.stackedsite.com/wp-content/uploads/sites/899/2013/01/ErrorCrimeDekker.pdf"
-    }
+    },
+    {
+        "link_title": "Why Do Things Go Right?",
+        "link_url": "https://safetydifferently.com/why-do-things-go-right/"
+        },
+        {
+            "link_title": "Nobody Ever Gets Credit for Fixing Problems That Never Happen",
+            "link_url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+            } 
     ],
     "tags": [
     "safety",
